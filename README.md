@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://media.licdn.com/dms/image/D5616AQEv0lNsC6PmNQ/profile-displaybackgroundimage-shrink_350_1400/0/1709395245781?e=1714608000&v=beta&t=TYhpLXI5Nvv35rQ6vd_fDiKA47c4csiM4XhXk6Wze3E)
+![LinkedIn Banner](https://media.licdn.com/dms/image/D5616AQEWy7nFeKrFiA/profile-displaybackgroundimage-shrink_350_1400/0/1709995339842?e=1715212800&v=beta&t=YUo61Ovg7Jo0Wg6T3dcDSLIeE3yjUW7kX36HITVcaY4)
 
 # Hi there, I'm Vimal N 👋
 
@@ -14,7 +14,11 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vimal-n-8ab419267/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-%23-3a86ff.svg?style=for-the-badge&logoColor=white)](https://rb.gy/gyv3up)
 
+## 🎨 Figma Experience:
+
+- I have experience using Figma for UI/UX design. I use Figma to create intuitive and visually appealing interfaces for web and mobile applications.
 
 # 💻 Tech Stack:
 
@@ -29,6 +33,8 @@
 ![UiPath](https://img.shields.io/badge/uipath-%2300455e.svg?style=for-the-badge&logo=UiPath&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ## 📊 GitHub Stats:
 
