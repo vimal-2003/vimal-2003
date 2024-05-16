@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://media.licdn.com/dms/image/D5616AQEWy7nFeKrFiA/profile-displaybackgroundimage-shrink_350_1400/0/1709995339842?e=1715212800&v=beta&t=YUo61Ovg7Jo0Wg6T3dcDSLIeE3yjUW7kX36HITVcaY4)
+![LinkedIn Banner](https://drive.google.com/uc?export=view&id=1IWc8dLaqM-H6fPidLS4wZ8ow4CZLi8YZ)
 
 # Hi there, I'm Vimal N 👋
 
