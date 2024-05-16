@@ -13,7 +13,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vimal-n-8ab419267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vimal-n-8ab419267)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-%23-3a86ff.svg?style=for-the-badge&logoColor=white)](https://rb.gy/gyv3up)
 
 ## 🎨 Figma Experience:
